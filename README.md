@@ -34,8 +34,8 @@ This project demonstrates how to integrate **Google Gemini LLM** with a MySQL da
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Google-Gemini-LLM-Text-to-SQL.git
-   cd Google-Gemini-LLM-Text-to-SQL
+   git clone https://github.com/mtptisid/STOCK_MARKET_AI_WITH_GOOGLE_GEMINI.git
+   cd STOCK_MARKET_AI_WITH_GOOGLE_GEMINI
    ```
 
 2. Create a virtual environment and activate it:
@@ -151,6 +151,20 @@ Google-Gemini-LLM-Text-to-SQL/
 - **Chroma** for semantic similarity search.
 
 ---
+
+---
+
+## SCREENSHOTS
+<img width="1440" alt="Screenshot 2024-12-14 at 4 05 53 PM" src="https://github.com/user-attachments/assets/64ff4b5e-2278-43d8-8587-2076693ae359" />
+
+<img width="1440" alt="Screenshot 2024-12-14 at 4 11 57 PM" src="https://github.com/user-attachments/assets/04e92e6e-b86b-4b1e-b3ca-0fb7e1bfdb60" />
+
+<img width="1440" alt="Screenshot 2024-12-14 at 4 17 04 PM" src="https://github.com/user-attachments/assets/3e387d98-5522-4143-bf87-802f753cb8a2" />
+
+<img width="1318" alt="Screenshot 2024-12-14 at 4 17 42 PM" src="https://github.com/user-attachments/assets/5578abb3-ddb2-4375-8ab1-42e0e79e95ee" />
+
+
+<img width="1440" alt="Screenshot 2024-12-14 at 4 18 33 PM" src="https://github.com/user-attachments/assets/15cd4be8-37c5-4676-a212-3c3cf285f15a" />
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
